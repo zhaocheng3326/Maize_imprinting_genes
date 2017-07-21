@@ -1,0 +1,11 @@
+PASS	Basic Statistics	BM_05_1_R1.clean.fq.gz
+PASS	Per base sequence quality	BM_05_1_R1.clean.fq.gz
+PASS	Per sequence quality scores	BM_05_1_R1.clean.fq.gz
+FAIL	Per base sequence content	BM_05_1_R1.clean.fq.gz
+FAIL	Per base GC content	BM_05_1_R1.clean.fq.gz
+FAIL	Per sequence GC content	BM_05_1_R1.clean.fq.gz
+PASS	Per base N content	BM_05_1_R1.clean.fq.gz
+PASS	Sequence Length Distribution	BM_05_1_R1.clean.fq.gz
+FAIL	Sequence Duplication Levels	BM_05_1_R1.clean.fq.gz
+WARN	Overrepresented sequences	BM_05_1_R1.clean.fq.gz
+WARN	Kmer Content	BM_05_1_R1.clean.fq.gz
